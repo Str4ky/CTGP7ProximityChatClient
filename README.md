@@ -7,10 +7,10 @@ You can get the latest released version from the [official repo's releases page]
 
 ## Preview
 ### Main page
-![image](https://github.com/user-attachments/assets/48d4a3b8-0684-4f06-8b71-26b22de2ce95)
+![image](https://github.com/user-attachments/assets/d35baff5-0774-4996-a822-ab7f2a6c0b8b)
 
 ### Settings page
-![image](https://github.com/user-attachments/assets/f0b5009e-87bc-4d48-9bc6-cc5502c53bf3)
+![image](https://github.com/user-attachments/assets/92fad6bb-8a26-40a3-9da9-b995fd048025)
 
 ### Player boxes
 ![image](https://github.com/user-attachments/assets/84eac23f-4870-40d7-80a2-a57df144744a)
