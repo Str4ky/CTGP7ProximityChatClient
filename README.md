@@ -2,7 +2,8 @@
 This is a rework of the user interface of CTGP-7's new proximity chat client
 
 ## Download
-You can get the latest version from the [official repo's releases page](https://github.com/PabloMK7/CTGP7ProximityChatClient/releases/latest).
+You can get the latest released version from the [official repo's releases page](https://github.com/PabloMK7/CTGP7ProximityChatClient/releases/latest).
+(This work is not yet available on the main project's repo)
 
 ## Preview
 ### Main page
