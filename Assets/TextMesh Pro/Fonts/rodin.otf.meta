@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 7b28364488182fe459f9b724b72cdf9f
+guid: 987759cf13a6d554aaa377d708175a8f
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -9,7 +9,7 @@ TrueTypeFontImporter:
   characterPadding: 1
   includeFontData: 1
   fontNames:
-  - nintendoP_NTLG-NR-DB_003
+  - FOT-Rodin Pro
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0
