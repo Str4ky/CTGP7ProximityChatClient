@@ -7,13 +7,13 @@ You can get the latest released version from the [official repo's releases page]
 
 ## Preview
 ### Main page
-![image](https://github.com/user-attachments/assets/d35baff5-0774-4996-a822-ab7f2a6c0b8b)
+![image](https://github.com/user-attachments/assets/2626bf2c-c6b4-4ffb-b489-304223a84c84)
 
 ### Settings page
-![image](https://github.com/user-attachments/assets/92fad6bb-8a26-40a3-9da9-b995fd048025)
+![image](https://github.com/user-attachments/assets/dcb80aa0-ec3a-4509-aa5d-73ee5ba33d97)
 
 ### Player boxes
-![image](https://github.com/user-attachments/assets/84eac23f-4870-40d7-80a2-a57df144744a)
+![image](https://github.com/user-attachments/assets/6b01bbe6-212d-438c-a06d-c772da03f9d5)
 
 ## Credits
 Voice chat functionality is provided by [Vivox](https://vivox.com).</br>
