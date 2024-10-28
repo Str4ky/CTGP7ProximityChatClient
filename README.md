@@ -16,5 +16,5 @@ You can get the latest released version from the [official repo's releases page]
 ![image](https://github.com/user-attachments/assets/84eac23f-4870-40d7-80a2-a57df144744a)
 
 ## Credits
-Voice chat functionality is provided by [Vivox](https://vivox.com).
+Voice chat functionality is provided by [Vivox](https://vivox.com).</br>
 CTGP-7 and the proximity chat client is made by [PabloMK7](https://github.com/pabloMK7).
